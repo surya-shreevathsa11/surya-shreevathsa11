@@ -1,4 +1,4 @@
-# 3About Me:
+# About Me:
 Embedded Systems Engineer specializing in EV electronics, system integration, and PCB design.<br><br>Currently working at Meen Motors, building embedded control systems for electric vehicles, including firmware development, battery systems, and safety-critical electrical architectures.<br><br>Focused on developing reliable, real-world embedded solutions.
 
 
